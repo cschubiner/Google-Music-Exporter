@@ -5,6 +5,7 @@ Export playlists from Google Music
 
 ##Sample run
 Running the program is simple:
+
     python gmusicexporter.py johnsmith@gmail.com "MY PASSWORD"
     Done.
     Your library is saved in "GMusicPlaylists.csv"
